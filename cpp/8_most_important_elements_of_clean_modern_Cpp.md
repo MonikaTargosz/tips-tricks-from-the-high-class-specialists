@@ -6,7 +6,7 @@
 
 3. Use domain names. The domain-driven design (DDD) method allows business domain elements and issues to be mapped into code, facilitating communication between developers and other stakeholders. 
 
-4 Choose names at the right level of abstraction. The primary criterion for creating components and classes is the business domain using the DDD method and the object-oriented analysis and design (OOAD) technique.
+4. Choose names at the right level of abstraction. The primary criterion for creating components and classes is the business domain using the DDD method and the object-oriented analysis and design (OOAD) technique.
 
 5. Avoid redundancy (DRY principle) by avoiding repetition of the class name in its attributes and not including the attribute type in its name.
 
