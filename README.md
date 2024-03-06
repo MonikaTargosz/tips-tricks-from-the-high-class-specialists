@@ -14,5 +14,7 @@ A collection of tips and tricks to implement from books by people in the tech wo
 
 - [8 Most important elements of a clean and modern C++ language](https://github.com/MonikaTargosz/tips-tricks-from-the-high-class-specialists/blob/main/cpp/8_most_important_elements_of_clean_modern_Cpp.md#8-most-important-elements-of-a-clean-and-modern-c-language)
 
+- [12 tips for Basic operations - the processes of constructing, copying, moving and destroying objects](https://github.com/MonikaTargosz/tips-tricks-from-the-high-class-specialists/blob/main/cpp/12_tips_for_constructors_assignments_destructors.md)
+
 
 
